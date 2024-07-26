@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+header,h6{
+    background-color: yellow;
+    text-align: center;
+    font-size: large;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+body{
+    background-color:grey;
+}
+.boy{
+    display: flex;
+    margin-bottom: 100%;
+}
+.rap{
+    display: flex;
+    justify-content: space-around;
+}
+.warp{
+    background-color: grey;
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+}
+.app{
+    border: 2px  ridge black;
+    padding: 5%;
+}
+.ap{
+    border: 2px ridge black;
+    padding: 5%;
+}
+.a{
+    border: 2px ridge black;
+    padding: 5%;
+    border-right: 0%;
+}
+.god{
+    padding-left: 2%;
+    background-color: lightgray;
+}
+.src{
+    border: 2px ridge black;
+    padding: 5%;
+}
+.kt{
+    border: 2px ridge black;
+    padding: 5%;
+}
+.rt{
+    border: 2px ridge black;
+    padding: 5%;
+}
